@@ -4,7 +4,7 @@ Google Collab Link : https://colab.research.google.com/drive/1FjZ9ddqvlwcRbEcBUJ
 Reasons to prefer Quick Sort over Merge Sort
 | Sorting Technique | Best Case | Average Case | Worst Case |
 | --- | --- | --- | --- |
-| Merge Sort |  |  |  |
-| Quick Sort |  |  |  |
+| Merge Sort | Ω(n log(n)) | θ(n log(n))	 | O(n log(n)) |
+| Quick Sort | Ω(n log(n)) | θ(n log(n))	 | O(n^2) |
 
 1. Merge Sort takes extra memory where as quick-sort works in place
