@@ -8,3 +8,5 @@ Reasons to prefer Quick Sort over Merge Sort
 | Quick Sort | Ω(n log(n)) | θ(n log(n))	 | O(n^2) |
 
 1. Merge Sort takes extra memory where as quick-sort works in place
+2. Runtime of Merge Sort shoots up dramatically for larger input sizes and Quick Sort on the contrary performs much better even when worst case the growth rate of Quick Sort is worse than Merge Sort.
+<img width="739" alt="image" src="https://user-images.githubusercontent.com/113304768/205466135-8bb539ba-dbb8-4548-914b-217312921860.png">
